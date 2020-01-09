@@ -10,7 +10,7 @@ You inspect cpurape_crostini, It's a simple script to batch transcode files on C
 
 > The developer of this script agrees with you.
 
-cpurape_crostini is a simple shell script wrapper to batch transcode media files in the sandboxed Linux distro in Chrome OS.
+cpurape_crostini is a simple shell script wrapper to batch transcode media files in the sandboxed Linux distro in Chrome OS. (Works on other distros and fitting hardware as well. Tested and working fine on CentOS and Debian-based.)
 ![enter image description here](https://raw.githubusercontent.com/ksaclan/lion-statics/master/superstatic/general/%20wtf%20is%20a%20design.png)
 ## Setup:
 
