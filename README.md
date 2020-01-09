@@ -5,7 +5,7 @@
 ![TriKool](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
 You inspect cpurape_crostini, It's a simple script to batch transcode files on Chome OS's sandboxed os. You feel like you are going to have a bad time.
-![fuck you, you dont get an alt text](https://raw.githubusercontent.com/ksaclan/lion-statics/master/superstatic/general/textbox%20meme.png)
+> ![fuck you, you dont get an alt text](https://raw.githubusercontent.com/ksaclan/lion-statics/master/superstatic/general/textbox%20meme.png)
 > The developer of this script agrees with you.
 
 cpurape_crostini is a simple shell script wrapper to batch transcode media files in the sandboxed Linux distro in Chrome OS.
